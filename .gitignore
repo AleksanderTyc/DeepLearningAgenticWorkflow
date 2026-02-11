@@ -1,0 +1,5 @@
+# Do not add secrets.json to the repository
+secrets.json
+
+# python pip venv
+venv
