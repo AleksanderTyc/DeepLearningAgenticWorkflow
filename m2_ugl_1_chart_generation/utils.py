@@ -131,7 +131,7 @@ def print_html(content: Any, title: str | None = None, is_image: bool = False):
       font-size:14px;
       color:#111;
     }
-    /* ðŸ”’ Only affects INSIDE the card */
+    /* 🔒 Only affects INSIDE the card */
     .pretty-card pre, 
     .pretty-card code {
       background: #f3f4f6;
